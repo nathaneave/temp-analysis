@@ -1,10 +1,3 @@
-TITLE Project 5 - Pascal's Triangle Program     (Proj3_eaven.asm)
-
-; Author: Nathan Eave
-; Last Modified: May 24, 2025
-; OSU email address: eaven@oregonstate.edu
-; Course number/section:   CS271 Section: 400
-; Project Number: Project #5                 Due Date: May 25, 2025
 ; Description: This program will introduce the programmer and then randomly generate
 ;			   a number of temperature readings. The exact number of temperature readings
 ;			   depends on the constant values DAYS_MEASURED and TEMPS_PER_DAY. It will
